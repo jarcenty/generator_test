@@ -1,0 +1,14 @@
+{
+    "uczestnicy": {
+        "wersja": "1.0",
+        "pola": ["imie", "nazwisko", "pesel", "telefon"]
+    },
+    "firma": {
+        "wersja": "2.1",
+        "pola": ["nazwa_firmy", "nip", "regon", "miasto", "adres", "email"]
+    },
+    "transakcje": {
+        "wersja": "3.0",
+        "pola": ["data", "kwota", "opis"]
+    }
+}
